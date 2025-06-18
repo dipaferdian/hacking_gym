@@ -736,17 +736,12 @@
                 {
                     "enabled":false,
                     "include_subdomains":true,
-                    "prefix":"snapchat.com"
-                },
-                {
-                    "enabled":false,
-                    "include_subdomains":true,
-                    "prefix":"hackerone.com"
+                    "prefix":"dvwa.com"
                 },
                 {
                     "enabled":true,
                     "include_subdomains":true,
-                    "prefix":"dvwa.com"
+                    "prefix":"mutillidae.om"
                 }
             ]
         }
