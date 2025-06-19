@@ -1,6 +1,6 @@
 # Environment: docker pull citizenstig/nowasp
 
-# Target password
+# Target
 # http://localhost/index.php?page=login.php
 
 # Original Query

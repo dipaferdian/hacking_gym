@@ -1,6 +1,6 @@
 # Environment: docker pull citizenstig/nowasp
 
-# Target password
+# Target
 # http://localhost/index.php?page=user-info.php&username=&password=&user-info-php-submit-button=View+Account+Details
 
 # Original Query
